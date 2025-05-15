@@ -36,9 +36,8 @@ This app was created for the course **Relational Database Implementation and App
 |----------------------|-----------------------|
 | ![Login](screenshots/login.png) | ![Main](screenshots/main_ui.png) |
 
-## 🎬 Demo Video
+![image](https://github.com/user-attachments/assets/b04b3807-6f0e-4760-b818-10f82044f8ba)
 
-👉 [Watch the 5-minute demo](https://your-video-link-here.com)
 
 ## 🧠 What I Learned
 
