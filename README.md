@@ -31,12 +31,20 @@ This app was created for the course **Relational Database Implementation and App
 | Tkinter           | GUI development                  |
 
 ## 🖼️ Screenshots
+ERD:
+![image](https://github.com/user-attachments/assets/05ad0973-122c-48b2-822d-6c6b930bf404)
 
-| Login Window         | Query Interface       |
-|----------------------|-----------------------|
-| ![Login](screenshots/login.png) | ![Main](screenshots/main_ui.png) |
-
+Login Access:
 ![image](https://github.com/user-attachments/assets/b04b3807-6f0e-4760-b818-10f82044f8ba)
+
+Application:
+![image](https://github.com/user-attachments/assets/2a76c797-4ae0-42fc-856e-4f24ca190eb8)
+
+Query Request:
+![image](https://github.com/user-attachments/assets/66576906-1f8c-4e50-9827-c5aea01a20bc)
+
+Insert Records:
+![image](https://github.com/user-attachments/assets/e0a5ad25-901e-4aa0-9f16-64777b7405eb)
 
 
 ## 🧠 What I Learned
@@ -57,6 +65,8 @@ uefa_app/
 ├── README.md            # Project documentation
 └── screenshots/         # Images for demo
 ```
+![image](https://github.com/user-attachments/assets/ec331a5c-5283-456e-bb65-7b6e67acd7b1)
+
 
 ## 📁 Future Enhancements
 
