@@ -8,7 +8,7 @@ An interactive desktop application built with **Python**, **SQL Server**, and **
 
 This app was created for the course **Relational Database Implementation and Applications**. It demonstrates how to design a normalized database schema, populate it with structured data, and interact with it via a Python GUI.
 
-### 🧩 Key Features
+## 🧩 Key Features
 
 - 🔐 Password-protected login interface
 - 📊 Execute complex SQL queries via buttons:
@@ -31,19 +31,25 @@ This app was created for the course **Relational Database Implementation and App
 | Tkinter           | GUI development                  |
 
 ## 🖼️ Screenshots
-ERD:
+
+## ERD:
+
 ![image](https://github.com/user-attachments/assets/05ad0973-122c-48b2-822d-6c6b930bf404)
 
-Login Access:
+## Login Access:
+
 ![image](https://github.com/user-attachments/assets/b04b3807-6f0e-4760-b818-10f82044f8ba)
 
-Application:
+## Application:
+
 ![image](https://github.com/user-attachments/assets/2a76c797-4ae0-42fc-856e-4f24ca190eb8)
 
-Query Request:
+## Query Request:
+
 ![image](https://github.com/user-attachments/assets/66576906-1f8c-4e50-9827-c5aea01a20bc)
 
-Insert Records:
+## Insert Records:
+
 ![image](https://github.com/user-attachments/assets/e0a5ad25-901e-4aa0-9f16-64777b7405eb)
 
 
